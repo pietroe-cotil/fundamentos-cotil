@@ -1,3 +1,6 @@
 # fundamentos-cotil
-# ola,,,,,,,,,,,,,,,🧐
 # :-)
+
+## Sobre Mim
+**Pietro Elvin**
+*estudante cotil*
