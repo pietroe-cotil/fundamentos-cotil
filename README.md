@@ -15,6 +15,6 @@
 
 O código abaixo é um "Olá, Mundo!" na linguagem C utilizando a função `printf`.
 ```
-    printf("Olá, Mundo!");
-    return 0;
+printf("Olá, Mundo!");
+return 0;
 ```
